@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="575d1295-9ddb-4f64-a73c-39b5feae35bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../src/main/jdbc/com/vastika/jdbcdemo/basic/ps/DeleteDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/jdbc/com/vastika/jdbcdemo/basic/ps/InsertDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/jdbc/com/vastika/jdbcdemo/basic/ps/SelectDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/jdbc/com/vastika/jdbcdemo/basic/ps/UpdateDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/jdbc/com/vastika/jdbcdemo/basic/st/DbCreateDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/jdbc/com/vastika/jdbcdemo/basic/st/DeleteDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/jdbc/com/vastika/jdbcdemo/basic/st/InsertDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/jdbc/com/vastika/jdbcdemo/basic/st/SelectDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/jdbc/com/vastika/jdbcdemo/basic/st/TableCreateDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/jdbc/com/vastika/jdbcdemo/basic/st/UpdateDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/jdbc/com/vastika/jdbcdemo/basic/util/DbUtil.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1qPkpFptMrcUarNsEr0t9btFLfi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="575d1295-9ddb-4f64-a73c-39b5feae35bc" name="Default Changelist" comment="" />
+      <created>1616988793684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616988793684</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
